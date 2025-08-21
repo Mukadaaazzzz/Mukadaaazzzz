@@ -1,11 +1,10 @@
-# Hi, I'm Taofeeq Mukadaz  
+# I'm Taofeeq Mukadaz  
 
 **Full Stack Developer | AI/ML Engineer | Cybersecurity Certified**  
 Based in Lagos, Nigeria  
 
 I’m passionate about building **secure, scalable, and user-focused applications** that make a real impact.  
   
-
 ---
 
 ## 🚀 Skills & Toolset  
@@ -30,11 +29,10 @@ Designed and implemented an **AI education hub** offering courses, certification
 🔗 [Live App](https://tinpear.org)
 
 ### 🔬 Bioncolab – Open Biomedical Innovation  
-Contributed to a platform enabling **collaborative, AI-driven biomedical research** for scientists and innovators.  
-🔗 [Live App](https://bioncolab.netlify.app) 
+🔗 [Live App](https://bioncolab.netlify.app)
 ---
 
-## 🎬 Beyond Code  
+## Beyond Code  
 When I’m not coding, you’ll find me:  
 - Exploring Lagos ✨  
 - Watching sci-fi & thrillers 🎥  
