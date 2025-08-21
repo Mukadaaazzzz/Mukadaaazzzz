@@ -1,6 +1,6 @@
 # Taofeeq Mukadaz  
 
-**Full Stack Developer | AI/ML Engineer | Cybersecurity Certified**  
+**Full Stack Developer | AI/ML Engineer**  
 Based in Lagos, Nigeria  
 
 I’m passionate about building **secure, scalable, and user-focused applications** that make a real impact.  
