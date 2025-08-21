@@ -18,18 +18,14 @@ I’m passionate about building **secure, scalable, and user-focused application
 
 ---
 
-## 🌟 Some Featured Projects  
+## 🌟 Featured Projects  
 
-### 💳 Holive Services – Fintech SaaS Platform  
-Built a **scalable fintech platform** with modern architecture for payments and digital services.  
-🔗 [holiveservices.com.ng](https://holiveservices.com.ng) *(NDA protected repo)*  
-
-### 🧪 Tinpear – AI Learning & Upskilling Platform  
-Designed and implemented an **AI education hub** offering courses, certifications, and industry news.  
-🔗 [Live App](https://tinpear.org)
-
-### 🔬 Bioncolab – Open Biomedical Innovation  
+### 🔬 Bioncolab – Open Biomedical Innovation
 🔗 [Live App](https://bioncolab.netlify.app)
+
+### 🔬 Mukadaz Labs – Strategy and IT consulting firm
+🔗 [Live App](https://mukadazlabs.com.ng)
+
 ---
 
 ## Beyond Code  
